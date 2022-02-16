@@ -12,7 +12,6 @@ Be up to date
 * HTML
 * CSS
 
-
 ### License
 
 * LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license)
