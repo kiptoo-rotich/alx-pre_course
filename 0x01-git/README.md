@@ -4,6 +4,9 @@
 
 ## Description
 This is an example of README file for alx prexourse.
+
+### Collaboration
+Be up to date
         
 ## Built With
 * HTML
