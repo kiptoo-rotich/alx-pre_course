@@ -7,6 +7,7 @@ This is an example of README file for alx prexourse.
 
 ### Collaboration
 Be up to date
+Updating github from GitHub interface.
         
 ## Built With
 * HTML
